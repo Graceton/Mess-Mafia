@@ -1,2 +1,2 @@
 # Mess-Mafia
-Canteen food ordering app for students
+Remote Canteen food ordering app 
